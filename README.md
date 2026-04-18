@@ -1,9 +1,9 @@
 # Ahmad Falaki
 
 Full-stack developer and product builder based in Kano, Nigeria.
-Currently completing SIWES at Aisha Kwakwu & Associates — building real systems, not just coursework.
+Currently completing SIWES at Aisha Kwakwu & Associates  building real systems, not just coursework.
 
----
+
 
 ## What I'm working on
 
@@ -38,4 +38,4 @@ Adoption proposal submitted to Bayero University Kano. Pilot incoming.
 
 Open to remote full-stack and product roles.  
 📧 amfalaki2000@gmail.com 
-🌐 [your portfolio link here]## Hi there 👋
+🌐 [your portfolio link here]
